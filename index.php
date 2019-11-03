@@ -1,5 +1,5 @@
 
 <?php
 require_once("db/db.php");
-require_once("controller/personas_controller.php");
+require_once("controlador/personas_controller.php");
 ?>
